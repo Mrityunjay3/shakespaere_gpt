@@ -47,5 +47,3 @@ python train.py
 - **Regular Validation**: Periodically evaluates the model against a validation dataset to ensure it generalizes well beyond the training data.
 
 ---
-
-This updated README includes the specific count of trainable parameters, enhancing transparency and providing potential collaborators or recruiters with a clearer understanding of the model’s complexity and capabilities.
