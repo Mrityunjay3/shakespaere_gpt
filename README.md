@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to ShakesPaere GPT. This repository contains a Language Model built using PyTorch, specifically designed to generate text that emulates the unique literary style of Shakespeare. The model leverages a transformer architecture, renowned for its effectiveness in natural language processing tasks.
+Welcome to ShakesPaere GPT. This language model has been made following the amazing lectures curated and delivered by Andres Karpathy (Co-founder of OpenAI). This repository contains a Language Model built using PyTorch, specifically designed to generate text that emulates the unique literary style of Shakespeare. The model leverages a transformer architecture, renowned for its effectiveness in natural language processing tasks. The model is trained on the dataset "input.txt" which is a compilation of all of Shakespeare's work (popularly known as tiny Shakespeare).
 
 ## Technical Specifications
 
